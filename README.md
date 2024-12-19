@@ -1,14 +1,14 @@
 # Security-Analysis-and-Portfolio-Management
-THe project was a part of my elective - **Security Analysis and Portfolio Management** at BITS Hyd, as a part of my 5th Semester. This repository consists of the problem statement, final report and the code that I wrote for completing the task.
+This project was a part of my elective - **Security Analysis and Portfolio Management** at BITS Hyd, as a part of my 5th Semester. This repository consists of the problem statement, final report and the code that I wrote for completing the allotted task.
 
 Overview:
-- I was allotted 8 publicly listed firms and were asked to create an **Efiicient Frontier** using the Markowitz Portfolio Theory and a **Tangency Portfolio** for the same.
+- I was allotted 8 publicly listed firms and was asked to create an **Efficient Frontier** using the Markowitz Portfolio Theory and a **Tangency Portfolio** for the same.
 - I obtained the risk-free rates using historical data of a market index (NIFTY 50) and annualizing the returns.
 - The risk-adjusted portfolios were created by maximizing the Sharpe Ratio.
 - The notebook contains markdowns explaining every section of the code.
-- Further, Iadded 1 cryptocurrency and 1 international security to check the overall on impact on the risk-adjusted returns.
+- Further, I added 1 cryptocurrency and 1 international security to check the overall on impact on the risk-adjusted returns due to diversification.
 
-I used Yahoo Finance to get the daily adjusted returns of the securities. The yfinance tickers are mentioned beside the name of each security.  
+I used Yahoo Finance to get the daily adjusted prices of the securities. The yfinance tickers are mentioned beside the name of each security.  
 List of Domestic Securities:
 - AEGIS Logistics Ltd. (AEGISLOG)
 - Canara Bank Ltd. (CANBK)
